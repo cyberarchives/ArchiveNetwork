@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Archive3Unity3D", "Archive3Unity3D\Archive3Unity3D.csproj", "{E093194B-9BBF-4A0B-A969-88F67DD4BC6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E093194B-9BBF-4A0B-A969-88F67DD4BC6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E093194B-9BBF-4A0B-A969-88F67DD4BC6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E093194B-9BBF-4A0B-A969-88F67DD4BC6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E093194B-9BBF-4A0B-A969-88F67DD4BC6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C87BAAA3-97DC-4DE9-85DF-32FF209FC6E9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Snoofz\source\repos\Archive3Unity3D\Archive3Unity3D\bin\Debug\net8.0\Archive3Unity3D.deps.json
+C:\Users\Snoofz\source\repos\Archive3Unity3D\Archive3Unity3D\bin\Debug\net8.0\Archive3Unity3D.dll
+C:\Users\Snoofz\source\repos\Archive3Unity3D\Archive3Unity3D\bin\Debug\net8.0\Archive3Unity3D.pdb
+C:\Users\Snoofz\source\repos\Archive3Unity3D\Archive3Unity3D\obj\Debug\net8.0\Archive3Unity3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Snoofz\source\repos\Archive3Unity3D\Archive3Unity3D\obj\Debug\net8.0\Archive3Unity3D.AssemblyInfoInputs.cache
+C:\Users\Snoofz\source\repos\Archive3Unity3D\Archive3Unity3D\obj\Debug\net8.0\Archive3Unity3D.AssemblyInfo.cs
+C:\Users\Snoofz\source\repos\Archive3Unity3D\Archive3Unity3D\obj\Debug\net8.0\Archive3Unity3D.csproj.CoreCompileInputs.cache
+C:\Users\Snoofz\source\repos\Archive3Unity3D\Archive3Unity3D\obj\Debug\net8.0\Archive3Unity3D.dll
+C:\Users\Snoofz\source\repos\Archive3Unity3D\Archive3Unity3D\obj\Debug\net8.0\refint\Archive3Unity3D.dll
+C:\Users\Snoofz\source\repos\Archive3Unity3D\Archive3Unity3D\obj\Debug\net8.0\Archive3Unity3D.pdb
+C:\Users\Snoofz\source\repos\Archive3Unity3D\Archive3Unity3D\obj\Debug\net8.0\ref\Archive3Unity3D.dll
